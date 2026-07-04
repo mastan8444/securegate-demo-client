@@ -1,0 +1,14 @@
+{
+  "name": "securegate-demo-client",
+  "version": "1.0.0",
+  "description": "SecureGate AI Demonstration client website",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^1.18.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
